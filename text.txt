@@ -1,5 +1,2 @@
 c'est juste un p'tit texte!
 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolor illum deleniti nihil doloribus quasi mollitia tempora! Illo libero debitis quasi a possimus beatae, enim obcaecati consectetur placeat ab exercitationem labore?
-
-
-Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolor illum deleniti nihil doloribus quasi mollitia tempora! Illo libero debitis quasi a possimus beatae, enim obcaecati consectetur placeat ab exercitationem labore?
